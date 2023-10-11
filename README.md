@@ -28,7 +28,7 @@ Welcome to my Spotify Clone project! 🎧 A web page built using HTML, CSS, and 
 
 ## Contact Me 📬
 
-Have any questions or suggestions? Feel free to reach out to me at sujeet17052003@gmail.com.
+Have any questions or suggestions? Feel free to reach out to me at sujeetpawar17@gmail.com.
 
 🌟 If you found this project helpful, don't forget to star the repository! 🌟
 
